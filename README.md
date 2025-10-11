@@ -1,1 +1,1 @@
-This program shows and describe relative links for user company brochure depneding on her website. I used ollama language model.
+This program shows and describe relative links for user company brochure depneding on her website. Finally, you can translate the page into the language of your choice. I used ollama language model.
